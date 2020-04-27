@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tabs.css","App.css"],"names":[],"mappings":"AAAA,aACE,gBACF,CCDA,MACE,YACF","file":"main.f538ff2a.chunk.css","sourcesContent":[".tab-content {\n  padding-top: 25px;\n}\n","\n#root {\n  padding: 50px;\n}\n"]}
