@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tab.css","Tabs.css","App.css"],"names":[],"mappings":"AAAA,OACE,kBACF,CCFA,aACE,gBACF,CCDA,MACE,YACF","file":"main.2db4893c.chunk.css","sourcesContent":["button {\n  background: inherit;\n}\n",".tab-content {\n  padding-top: 25px;\n}\n","\n#root {\n  padding: 50px;\n}\n"]}
